@@ -1,0 +1,1 @@
+“Se creó y verificó la base de datos DentemDB en SQL Server 2025, comprobando la conexión local y la correcta selección de la base de datos mediante consultas SQL.”
